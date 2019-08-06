@@ -32,7 +32,11 @@ body {
   line-height: .75;
   width: 100%;
   font-size: 1.5em;
+ 
 
+}
+#collapsable-nav{
+  padding-bottom: 20px;
 }
 
 #nav-list {
@@ -45,9 +49,7 @@ body {
 #nav-list a:hover {
   background: #E7E7E7;
 }
-#collapsable-nav{
-  padding-bottom: 15px;
-}
+
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
